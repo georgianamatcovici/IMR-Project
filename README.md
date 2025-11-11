@@ -7,7 +7,7 @@ Week7:
 
 -am adaugat reactia 2Na+2H2O->2NaOH+H2
 
--setup-ul: bottle cu Na tinut sub petrol (cu maro), spatula de laborator, pahar cilindric cu apa
+-setup-ul: bottle cu Na tinut sub petrol (cu maro), spatula de laborator, pahar cilindric cu apa cu fenolftaleina
 
 -tap pe bottle pentru a indeparta capacul, tap pe spatula pentru a o muta, cand avem coliziune cu bottle cu Na, pe spatula apare un cub (o bucata de Na), cand intra in coliziune cu apa, dispare Na, apa se coloreaza in roz
 
