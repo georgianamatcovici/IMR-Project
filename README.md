@@ -1,3 +1,5 @@
+Lab week7:
+Video: https://youtube.com/shorts/1lWdXYrPY3Q?feature=share
 
 Lab week6:
 Main Modules: https://docs.google.com/document/d/1RWQe6ZxxWZgfojhEYedio5xl92Mgj1tyYhGDp-vkPWw/edit?usp=sharing
