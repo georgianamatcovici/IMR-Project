@@ -13,7 +13,7 @@ Week7:
 
 -deasupra se vad 2 molecule de apa si 2 de Na (sferele mai mari)
 
--am implementat drag and drop pentru cateva obiecte ( care au tag-ul draggable): spatula, capacul de pe botlle cu Na
+-am implementat drag and drop pentru cateva obiecte ( care au tag-ul draggable): spatula, capacul de pe bottle cu Na
 
 Lab week6:
 Main Modules: https://docs.google.com/document/d/1RWQe6ZxxWZgfojhEYedio5xl92Mgj1tyYhGDp-vkPWw/edit?usp=sharing
