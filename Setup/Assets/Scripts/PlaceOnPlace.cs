@@ -5,9 +5,13 @@ using UnityEngine.XR.ARSubsystems;
 
 public class PlaceOnPlace : MonoBehaviour
 {
+    [Header("Prefabs")]
     public GameObject labToolsPrefab;     
+    public GameObject molecularAnimationPrefab;
+
+    [Header("AR Settings")]
     public float minTableHeight = 0.4f;  
-    public float maxTableHeight = 1.2f;   
+    public float maxTableHeight = 1.2f;
 
     private ARRaycastManager raycastManager;
     private ARPlaneManager planeManager;
@@ -22,7 +26,7 @@ public class PlaceOnPlace : MonoBehaviour
 
     void Update()
     {
-        if (placed == true)
+        if (placed)
             return;
 
         Vector2 screenCenter = new Vector2(Screen.width / 2f, Screen.height / 2f);
@@ -31,15 +35,26 @@ public class PlaceOnPlace : MonoBehaviour
         {
             Pose pose = hits[0].pose;
 
-            if (!placed)
-            {
-                Instantiate(labToolsPrefab, pose.position, pose.rotation);
-                placed = true;
+            // Instanțiere doar o dată
+            var labTools = Instantiate(labToolsPrefab, pose.position, pose.rotation);
+            var reaction = Instantiate(molecularAnimationPrefab, labTools.transform);
+            reaction.transform.localScale = new Vector3(0.03f, 0.03f, 0.03f);   // mai mic
+            reaction.transform.localPosition = new Vector3(-0.1f, 0.4f, 0f);
 
-                planeManager.enabled = false;
-                foreach (var plane in planeManager.trackables)
-                    plane.gameObject.SetActive(false);
-            }
+            var buttonScript = labTools.GetComponentInChildren<ButtonScript>();
+            
+                if (buttonScript != null)
+                {
+                    buttonScript.animator = reaction.GetComponent<Animator>();
+                }
+            
+
+            placed = true; // blocăm instanțierea ulterioară
+
+            // Dezactivăm plane manager și planele
+            planeManager.enabled = false;
+            foreach (var plane in planeManager.trackables)
+                plane.gameObject.SetActive(false);
         }
     }
 }

@@ -7,6 +7,7 @@ TagManager:
   - Draggable
   - Bottle
   - water
+  - table
   layers:
   - Default
   - TransparentFX

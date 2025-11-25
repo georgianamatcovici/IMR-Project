@@ -4,8 +4,14 @@ public class CorkDropper : MonoBehaviour
 {
     public GameObject cork; 
     public float launchForce = 0.2f;
+    public MessageUI messageUI;  
 
     private bool dropped = false;
+
+    void Start()
+    { 
+        messageUI.Show("Tap the cork to remove it from the bottle containing sodium (Na). Sodium is stored under oil for safety.");
+    }
 
     void Update()
     {
@@ -23,6 +29,7 @@ public class CorkDropper : MonoBehaviour
                 if (hit.collider.gameObject == this.gameObject && !dropped)
                 {
                     DropCork();
+                    messageUI.Show("Use the spatula: tap and drag it to take a piece of Na from the bottle.");
                     dropped = true;
                 }
             }
