@@ -35,10 +35,10 @@ public class PlaceOnPlace : MonoBehaviour
         {
             Pose pose = hits[0].pose;
 
-            // Instanțiere doar o dată
+         
             var labTools = Instantiate(labToolsPrefab, pose.position, pose.rotation);
             var reaction = Instantiate(molecularAnimationPrefab, labTools.transform);
-            reaction.transform.localScale = new Vector3(0.03f, 0.03f, 0.03f);   // mai mic
+            reaction.transform.localScale = new Vector3(0.03f, 0.03f, 0.03f);   
             reaction.transform.localPosition = new Vector3(-0.1f, 0.4f, 0f);
 
             var buttonScript = labTools.GetComponentInChildren<ButtonScript>();
@@ -49,9 +49,9 @@ public class PlaceOnPlace : MonoBehaviour
                 }
             
 
-            placed = true; // blocăm instanțierea ulterioară
+            placed = true; 
 
-            // Dezactivăm plane manager și planele
+       
             planeManager.enabled = false;
             foreach (var plane in planeManager.trackables)
                 plane.gameObject.SetActive(false);
