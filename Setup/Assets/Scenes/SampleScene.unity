@@ -264,8 +264,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4329b5dd7f19a24cbeec52df81ded2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  labToolsPrefab: {fileID: 9161214826051688655, guid: a0457dc9095bd3741ab201c4058fbaff, type: 3}
-  molecularAnimationPrefab: {fileID: 8272232355964017265, guid: 6a9b92e7cef8cdd43b6ff75b5dd332f4, type: 3}
+  labToolsPrefab: {fileID: 1806087208622098860, guid: c5e620a162ed18e469bbc0183ac04d59, type: 3}
+  molecularAnimationPrefab: {fileID: 7362859988856323536, guid: 3442f6514534de24fb2ad5bd00d942e0, type: 3}
   minTableHeight: 0.4
   maxTableHeight: 1.2
 --- !u!114 &351046540
