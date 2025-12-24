@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bachelor\u0027s thesis\\Setup1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\spatulacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spatulacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\selectreactiondropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectreactiondropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\placeonplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placeonplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\corkpop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\corkpop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\corkdropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\corkdropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\setup1\\assets\\scripts\\ardrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B428F48F-619E-A3AC-1295-D2F9EB7390B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ardrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673CBA43-75EB-5B7A-205A-4567B70EA339}|Microsoft.MixedReality.Toolkit.Async.csproj|d:\\bachelor\u0027s thesis\\setup1\\library\\packagecache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\core\\utilities\\async\\internal\\asynccoroutinerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673CBA43-75EB-5B7A-205A-4567B70EA339}|Microsoft.MixedReality.Toolkit.Async.csproj|solutionrelative:library\\packagecache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\core\\utilities\\async\\internal\\asynccoroutinerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8CC3B-94A8-CC6C-194B-C2D75BF22006}|Microsoft.MixedReality.Toolkit.Services.InputSystem.csproj|D:\\Bachelor\u0027s thesis\\Setup1\\Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8CC3B-94A8-CC6C-194B-C2D75BF22006}|Microsoft.MixedReality.Toolkit.Services.InputSystem.csproj|solutionrelative:Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpatulaCollision.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\SpatulaCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpatulaCollision.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\SpatulaCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpatulaCollision.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:52:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectReactionDropDown.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\SelectReactionDropDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectReactionDropDown.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\SelectReactionDropDown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectReactionDropDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceOnPlace.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\PlaceOnPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaceOnPlace.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\PlaceOnPlace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaceOnPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageUI.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\MessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageUI.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\MessageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:38.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabToolsController.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\LabToolsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LabToolsController.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\LabToolsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LabToolsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorkPop.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\CorkPop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CorkPop.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\CorkPop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CorkPop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:51:22.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorkDropper.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\CorkDropper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CorkDropper.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\CorkDropper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CorkDropper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:50:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonScript.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonScript.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\ButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:50:20.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ARDrag.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\ARDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ARDrag.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Assets\\Scripts\\ARDrag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ARDrag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:50:16.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsyncCoroutineRunner.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Core\\Utilities\\Async\\Internal\\AsyncCoroutineRunner.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Core\\Utilities\\Async\\Internal\\AsyncCoroutineRunner.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Core\\Utilities\\Async\\Internal\\AsyncCoroutineRunner.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Core\\Utilities\\Async\\Internal\\AsyncCoroutineRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:03:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FocusProvider.cs",
+              "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\Setup1\\Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs",
+              "ToolTip": "D:\\Bachelor\u0027s thesis\\Setup1\\Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec\\Services\\InputSystem\\FocusProvider.cs",
+              "ViewState": "AgIAAOQCAAAAAAAAAAAgwPgCAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:47:57.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
