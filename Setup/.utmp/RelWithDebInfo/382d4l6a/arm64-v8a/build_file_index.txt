@@ -1,0 +1,2 @@
+D:\Bachelor's thesis\new\IMR-Project\Setup\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Bachelor's thesis\new\IMR-Project\Setup\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

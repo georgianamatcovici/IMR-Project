@@ -15,6 +15,7 @@ public class SelectReactionDropDown : MonoBehaviour
         string selected = dropdown.options[index].text;
         Debug.Log(selected);
         Debug.Log(index);
+        Debug.Log("Chosen");
         PlayerPrefs.SetInt("ChosenOption", index); 
         PlayerPrefs.Save();
     }

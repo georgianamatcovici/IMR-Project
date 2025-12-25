@@ -8,6 +8,7 @@ TagManager:
   - Bottle
   - water
   - table
+  - Tube
   layers:
   - Default
   - TransparentFX
