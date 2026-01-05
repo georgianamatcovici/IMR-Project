@@ -1,3 +1,15 @@
+**Lab week 13**
+
+-configurarea proiectului pentru Hololens, hand interaction 
+Video: https://youtu.be/CD_B9nBm4Pg
+-continuarea dezvoltarii aplicatiei: pregatirea in scena a instrumentelor de laborator manipulate pentru 3 tipuri de reactii:
+Tipul 1: reactiile Na2+H2O, ZN+HCl
+Tipul 2: reactiile CuO+H2SO4, CuO+HCl, AgNO3+NaCl
+Tipul 3: reactiile Mg+H2O, descompunerea CaCo3 (in prezenta flacarii)
+testare pe telefon, codul poate fi refolosit pentru hololens, pe new-branch
+![4ea45f62-27be-42cf-8b32-1a43c8accd20](https://github.com/user-attachments/assets/bd72cbea-d235-4132-a9dd-cbe67e5078c3)
+![4c8ee318-e21f-49fd-ac18-99993c5923f0](https://github.com/user-attachments/assets/2bde24b3-90ac-49d3-8c46-e0f71991abcb)
+
  **Lab week12**
  -remove XR Origin
  -instalare pachete Mixed Reality Toolkit Examples, Mixed Reality Toolkit Extensions, Mixed Reality Toolkit Foundation pentru input, gaze, air tap
