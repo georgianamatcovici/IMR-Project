@@ -1,8 +1,11 @@
 **Lab week 13**
 
 -configurarea proiectului pentru Hololens, hand interaction 
+
 Video: https://youtu.be/CD_B9nBm4Pg
+
 -continuarea dezvoltarii aplicatiei: pregatirea in scena a instrumentelor de laborator manipulate pentru 3 tipuri de reactii:
+
 Tipul 1: reactiile Na2+H2O, ZN+HCl
 Tipul 2: reactiile CuO+H2SO4, CuO+HCl, AgNO3+NaCl
 Tipul 3: reactiile Mg+H2O, descompunerea CaCo3 (in prezenta flacarii)
