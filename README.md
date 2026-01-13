@@ -1,5 +1,6 @@
 **Lab week 14**
 -continuare logica + miscare pentru celelalte reactii
+
 -adaugare particule pentru efervescenta, de exemplu in video se pot observa in eprubeta la reactia Cu+H2SO4
 
 Video: https://youtube.com/shorts/p7hJzfJ5CM8?feature=share
