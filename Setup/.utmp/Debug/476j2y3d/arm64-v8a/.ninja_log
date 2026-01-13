@@ -62,3 +62,39 @@
 70	1428	7883837966634198	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994716388dd78b85
 34	1482	7883837967178925	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e404d040f517bacb
 1482	1624	7883837968620849	D:/Bachelor's thesis/new/IMR-Project/Setup/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/476j2y3d/obj/arm64-v8a/libgame.so	9e520ec694340a96
+130	1574	7883910031190226	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a7733ba96e5b1e4
+169	1586	7883910031286837	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3456838f30f400c8
+105	1592	7883910031357950	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5ec715ca65ca37d5
+85	1594	7883910031383288	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42ba4f6d6dff0f30
+155	1616	7883910031634892	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3a1423aa9c0808f6
+66	1619	7883910031660090	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	894b6d51c22e8478
+145	1720	7883910032608768	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994716388dd78b85
+44	1757	7883910032998471	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e404d040f517bacb
+1758	1942	7883910034945441	D:/Bachelor's thesis/new/IMR-Project/Setup/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/476j2y3d/obj/arm64-v8a/libgame.so	9e520ec694340a96
+54	1721	7883913690767469	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42ba4f6d6dff0f30
+8	1767	7883913691213851	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	894b6d51c22e8478
+86	1777	7883913691323707	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5ec715ca65ca37d5
+149	1791	7883913691429329	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3456838f30f400c8
+108	1818	7883913691724542	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a7733ba96e5b1e4
+133	1847	7883913692014628	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3a1423aa9c0808f6
+66	1878	7883913692380674	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994716388dd78b85
+21	1926	7883913692778549	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e404d040f517bacb
+1926	2083	7883913694413113	D:/Bachelor's thesis/new/IMR-Project/Setup/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/476j2y3d/obj/arm64-v8a/libgame.so	9e520ec694340a96
+64	1816	7883924144400530	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5ec715ca65ca37d5
+80	1821	7883924144424531	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a7733ba96e5b1e4
+25	1825	7883924144439700	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42ba4f6d6dff0f30
+11	1873	7883924144985653	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	894b6d51c22e8478
+111	1878	7883924145056105	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3456838f30f400c8
+128	1931	7883924145577646	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3a1423aa9c0808f6
+95	2032	7883924146620335	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994716388dd78b85
+49	2063	7883924146888833	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e404d040f517bacb
+2063	2248	7883924148810366	D:/Bachelor's thesis/new/IMR-Project/Setup/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/476j2y3d/obj/arm64-v8a/libgame.so	9e520ec694340a96
+55	1373	7883931371736039	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5ec715ca65ca37d5
+36	1382	7883931371889631	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	42ba4f6d6dff0f30
+45	1391	7883931371792797	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a7733ba96e5b1e4
+79	1401	7883931372085742	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3a1423aa9c0808f6
+7	1404	7883931372035195	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	894b6d51c22e8478
+91	1413	7883931372233667	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3456838f30f400c8
+67	1549	7883931373585525	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994716388dd78b85
+20	1566	7883931373763281	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e404d040f517bacb
+1567	1723	7883931375370770	D:/Bachelor's thesis/new/IMR-Project/Setup/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/476j2y3d/obj/arm64-v8a/libgame.so	9e520ec694340a96

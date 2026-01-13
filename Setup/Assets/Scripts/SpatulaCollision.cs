@@ -7,6 +7,7 @@ public class SpatulaCollision : MonoBehaviour
     public string waterTag = "water";
     public MessageUI messageUI;
     private int option;
+    [SerializeField] private GameObject bubles;
 
     void Start()
     {
@@ -31,9 +32,16 @@ public class SpatulaCollision : MonoBehaviour
             Renderer rend = other.GetComponent<Renderer>();
             if (rend != null)
             {
-                rend.material.color = new Color(1f, 0.4f, 0.7f, 0.5f);
-                messageUI.Show("Look! The water is now pink, indicating the Na reacted with water.\nPress the 'Animation' button to observe the molecular transformations occurring during the reaction.");
-            }
+                if (option == 1)
+                {
+                    rend.material.color = new Color(1f, 0.4f, 0.7f, 0.5f);
+                    messageUI.Show("Look! The water is now pink, indicating the Na reacted with water.\nPress the 'Animation' button to observe the molecular transformations occurring during the reaction.");
+                }
+                else if(option==5)
+                {
+                    bubles.SetActive(true);
+                }
+                }
         }
     }
 }

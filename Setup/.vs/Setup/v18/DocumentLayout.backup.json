@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spatulacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\selectreactiondropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectreactiondropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\ardrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipetteInteraction.cs",
               "ToolTip": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\PipetteInteraction.cs",
               "RelativeToolTip": "Assets\\Scripts\\PipetteInteraction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T18:02:24.737Z",
               "EditorCaption": ""
@@ -57,27 +57,27 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpatulaCollision.cs",
               "ToolTip": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\SpatulaCollision.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpatulaCollision.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T17:33:17.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LabToolsController.cs",
               "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\LabToolsController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LabToolsController.cs",
               "ToolTip": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\LabToolsController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LabToolsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T15:49:35.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SelectReactionDropDown.cs",
               "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\SelectReactionDropDown.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectReactionDropDown.cs",
@@ -85,12 +85,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SelectReactionDropDown.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T15:47:16.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T15:47:16.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T15:47:07.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T15:47:07.507Z"
             },
             {
               "$type": "Document",

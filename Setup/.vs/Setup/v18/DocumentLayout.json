@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\new\\imr-project\\setup\\assets\\scripts\\pipetteinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipetteinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\spatulacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spatulacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|d:\\bachelor\u0027s thesis\\new\\imr-project\\setup\\assets\\scripts\\pipetteinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipetteinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BF13FE-5207-CCA9-8882-566883892B28}|Assembly-CSharp.csproj|D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\assets\\scripts\\labtoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,30 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PipetteInteraction.cs",
               "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\PipetteInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipetteInteraction.cs",
               "ToolTip": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\PipetteInteraction.cs",
               "RelativeToolTip": "Assets\\Scripts\\PipetteInteraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T18:02:24.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SpatulaCollision.cs",
               "DocumentMoniker": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\SpatulaCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpatulaCollision.cs",
               "ToolTip": "D:\\Bachelor\u0027s thesis\\new\\IMR-Project\\Setup\\Assets\\Scripts\\SpatulaCollision.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpatulaCollision.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T17:33:17.941Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Assets\\Scripts\\LabToolsController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T15:49:35.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T15:49:35.415Z"
             },
             {
               "$type": "Document",
