@@ -1,4 +1,4 @@
-**Lab week 14**
+**Lab week 14** pe new-branch
 -continuare logica + miscare pentru celelalte reactii
 
 -adaugare particule pentru efervescenta, de exemplu in video se pot observa in eprubeta la reactia Cu+H2SO4
